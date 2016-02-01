@@ -2,7 +2,7 @@
 
 module.exports = {
   imgix: {
-    protocol: 'https',
+    protocol: 'http',
     host: 'afrostream.imgix.net'
   }
 };
